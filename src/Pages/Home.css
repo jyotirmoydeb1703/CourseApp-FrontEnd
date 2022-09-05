@@ -1,0 +1,18 @@
+.headerStyle {
+  text-align: center;
+}
+
+.courseMain {
+  display: flex;
+}
+
+.displayRecordMain {
+  min-width: 600px;
+  margin-right: 50px;
+  margin-right: 50px;
+  background-color: rgb(0, 255, 255, 0.3);
+}
+
+.createRecords{
+ margin-right: 0;;
+}

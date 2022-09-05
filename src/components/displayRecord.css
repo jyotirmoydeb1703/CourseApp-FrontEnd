@@ -1,0 +1,59 @@
+.displayRecordData {
+  align-items: center;
+  justify-content: center;
+}
+
+.displayRecords {
+  position: absolute;
+  top: 100px;
+}
+
+.displayRecordData li {
+  list-style-type: none;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  width: auto;
+  background: black;
+  color: #fff;
+  padding: 10px;
+}
+
+td {
+  width: 200px;
+  border: 1px solid;
+}
+
+.deleteRecordBtn {
+  background: red;
+  padding: 7px 10px;
+  border: 1px solid;
+  color: #f2f2f2;
+  border-radius: 5px;
+}
+
+.deleteRecordBtn:hover {
+  background: darkred;
+  color: #fff;
+  cursor: pointer;
+}
+
+.updateRecordBtn {
+  background: blue;
+  padding: 7px 10px;
+  border: 1px solid;
+  color: #f2f2f2;
+  border-radius: 5px;
+}
+
+.updateRecordBtn:hover {
+  background: navy;
+  color: #fff;
+  cursor: pointer;
+}
+
+.displayRecords{
+  padding:20px;
+}

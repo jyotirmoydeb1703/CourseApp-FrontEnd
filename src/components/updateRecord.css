@@ -1,0 +1,24 @@
+.upDateForm {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  padding: 50px;
+  background: rgb(248, 191, 168);
+}
+
+input[type="text"] {
+  height: 35px;
+  margin-top: 10px;
+}
+
+input[type="button"] {
+  background: orange;
+  border: 1px solid;
+  padding: 8px 12px;
+  border-radius: 5px;
+  position: relative;
+  top: 20px;
+}
+
